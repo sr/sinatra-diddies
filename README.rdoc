@@ -2,6 +2,13 @@
 
 All those handy tunes in one elegant package.
 
+In other words, this package is meant to include all those nice
+features that don't belongs in core {Sinatra}[http://sinatra.github.com].
+
+Currently includes:
+
+* Sinatra::Authorization
+
 == License
 
 (The MIT License)
